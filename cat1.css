@@ -1,0 +1,116 @@
+body{
+  background-image: url(Files/quanrum-2.jpg);
+    font-family: lato;
+}
+.contain {
+    margin: 50px;
+    
+    background-image: url(Files/maal.webp);
+    border-radius : 50px;
+    box-shadow: 5px  ;
+    border-style: groove;
+    box-shadow: 10px 10px 10px 10px ;
+    vertical-align: middle ;
+    
+  
+}
+.intro{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 10px;
+    font-family:  Georgia, Times, 'Times New Roman', serif;
+    font-weight: 900;
+    font-size: 48;
+    letter-spacing: 20px;
+    color: white;
+    
+
+}
+.intro-2 {
+    text-align: center;
+    padding-bottom: 20px;
+    padding-top: 10px;
+    
+    font-weight: 900;
+    letter-spacing: 5px;
+    color: white;
+  
+
+
+}
+.image-box{
+    text-align: center;
+    display:block ;
+    padding: 0px;
+    font-family: Comisc Sans MS, Georgia, Times, 'Times New Roman', serif;
+font-weight: 4000;
+border-radius : 50px;
+
+align-items: center;
+
+
+}
+.status{
+    text-align: center;
+    padding: 50px;
+    font-family: Comisc Sans MS, Georgia, Times, 'Times New Roman', serif;
+font-weight: 400;
+display: block;
+color:yellow;
+font-weight: 900;
+font-size: 20;
+
+
+}
+
+.src-img{
+   
+    border-radius : 50px;
+    background-color: gainsboro;
+    border-style: solid;
+    
+    
+    }
+.buttons{
+        display:inline-block;
+        height: 50px;
+        width: 500px;
+        text-align: center;
+        margin: 0 auto;
+        
+       
+
+ display: block;
+    align-items: center;
+    
+    padding: 10px;
+
+    
+    }
+    .link{
+
+        border-radius : 10px;
+    background-color:white;
+    align-items: center;
+   padding: 15px;
+
+   text-decoration:none;
+   margin-right: 20px;
+  
+   
+
+    }
+    .link:hover{
+
+        border-radius : 10px;
+    background-color:white;
+    align-items: center;
+   padding: 20px;
+
+   text-decoration:none;
+   margin-right: 20px;
+   
+   
+
+    }
+    
