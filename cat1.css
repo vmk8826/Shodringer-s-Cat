@@ -5,7 +5,7 @@ body{
 .contain {
 
     width: 80%;
-    margin: 4em auto;
+    margin: 4em auto 1em auto;
     
     background-image: url(Files/maal.webp);
     border-radius : 50px;
@@ -18,7 +18,7 @@ body{
 }
 .intro{
     text-align: center;
-    padding-top: 50px;
+    padding-top: 20px;
     padding-bottom: 10px;
     font-family:  Georgia, Times, 'Times New Roman', serif;
     font-weight: 900;
@@ -47,14 +47,15 @@ body{
     font-family: Comisc Sans MS, Georgia, Times, 'Times New Roman', serif;
 font-weight: 4000;
 border-radius : 50px;
-
+max-height: 100%;
+max-width:100%;
 align-items: center;
 
 
 }
 .status{
     text-align: center;
-    padding: 50px;
+    padding: 20px;
     font-family: Comisc Sans MS, Georgia, Times, 'Times New Roman', serif;
 font-weight: 400;
 display: block;
@@ -70,27 +71,22 @@ font-size: 20;
     border-radius : 50px;
     background-color: gainsboro;
     border-style: solid;
-    
+    width:40%;
+    height:35%;
     
     }
 .buttons{
-        display:inline-block;
         height: 50px;
         width: 500px;
         text-align: center;
-        margin: 0 auto;
-        
-       
-
+        margin: .2em auto;
     display: block;
-    align-items: center;
-    
     padding: 10px;
 
     
     }
     .link{
-
+	margin:1em;
         border-radius : 10px;
     background-color:white;
     align-items: center;
@@ -103,11 +99,11 @@ font-size: 20;
 
     }
     .link:hover{
-
+	color:white;
         border-radius : 10px;
-    background-color:white;
+    background-color:#714679;
     align-items: center;
-   padding: 20px;
+   padding: 18px;
 
    text-decoration:none;
    margin-right: 20px;
