@@ -3,13 +3,15 @@ body{
     font-family: lato;
 }
 .contain {
-    margin: 50px;
+
+    width: 80%;
+    margin: 4em auto;
     
     background-image: url(Files/maal.webp);
     border-radius : 50px;
-    box-shadow: 5px  ;
+    box-shadow: 2px  ;
     border-style: groove;
-    box-shadow: 10px 10px 10px 10px ;
+    box-shadow: 5px 5px 5px 5px ;
     vertical-align: middle ;
     
   
@@ -80,7 +82,7 @@ font-size: 20;
         
        
 
- display: block;
+    display: block;
     align-items: center;
     
     padding: 10px;

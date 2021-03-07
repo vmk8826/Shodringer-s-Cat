@@ -4,7 +4,7 @@ var u =0;
 document.querySelector('.implant').addEventListener('click',function(){
 u =1;
 var j ;
-document.querySelector('.status').textContent="Poison Implanted now check status";
+document.querySelector('.status').textContent="Poison Implanted now check result";
 j=document.querySelector('.src-img');
 j.src='Files/Schrodingers-Cat-Dead-And-Alive-T-Shirt-Cat-Lover-Funny-Science-Geek-Kitty.jpg'
 
